@@ -1,0 +1,1 @@
+This repository serves as a repository for the references and appendix of the paper “Collaborative Online International Learning COIL: Trends, Definition & Typology” by Susan Goeldi and Oscar Thees (2024).
